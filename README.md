@@ -1,0 +1,2 @@
+# myhaskellbook
+Haskellbook companion code
